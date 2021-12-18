@@ -1,0 +1,11 @@
+.countryContainer {
+    border: 3px solid black;
+    width:30vw;
+    margin: 8vh 8vw;
+    padding:5px;
+}
+
+.country,.capital,.currency {
+    text-decoration: underline;
+    font-weight: bold;
+}
